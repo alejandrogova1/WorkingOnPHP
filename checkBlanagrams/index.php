@@ -17,10 +17,3 @@ checkBlanagrams("silent", "listen");
 checkBlanagrams("x", "y");
 checkBlanagrams("z", "z");
 checkBlanagrams("aba","bab");
-
-$numero=-1;
-if(is_integer($numero) && $numero>=0){
-    echo "<p>si</p>";
-}else{
-    
-}
